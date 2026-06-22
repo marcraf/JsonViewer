@@ -48,3 +48,10 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# Agent and Spec documentation
+.agents/
+.specify/
+specs/
+AGENTS.md
+
