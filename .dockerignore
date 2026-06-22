@@ -1,0 +1,13 @@
+node_modules
+frontend/node_modules
+frontend/dist
+.git
+.github
+.agents
+.specify
+specs
+CVS
+.svn
+.hg
+.DS_Store
+*.log
